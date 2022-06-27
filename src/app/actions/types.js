@@ -1,0 +1,1 @@
+export const SEARCH_GIG = "SEARCH_GIG";
